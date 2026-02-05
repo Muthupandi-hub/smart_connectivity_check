@@ -1,0 +1,1 @@
+# smart_connectivity_check
