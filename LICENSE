@@ -1,0 +1,14 @@
+
+---
+
+## ✅ Also make sure these files exist
+
+Pub.dev **will reject** the package if any are missing:
+
+### 1️⃣ `LICENSE`
+```txt
+MIT License
+
+Copyright (c) 2026 Muthu Pandi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
