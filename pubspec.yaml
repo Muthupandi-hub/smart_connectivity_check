@@ -1,7 +1,6 @@
 name: smart_connectivity_check
 description: A smart Flutter package to check real internet connectivity with stream support.
-version: 0.0.2
-publish_to: "https://pub.dev"
+version: 0.0.3
 homepage: https://github.com/Muthupandi-hub/smart_connectivity_check
 repository: https://github.com/Muthupandi-hub/smart_connectivity_check
 documentation: https://pub.dev/packages/smart_connectivity_check

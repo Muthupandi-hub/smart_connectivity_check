@@ -16,6 +16,3 @@ Created by MUTHUPANDI P 👨‍💻
 
 📱 Compatible with Android, iOS, Web, and Desktop (where supported)
 
-## Demo
-
-![Smart Connectivity Check Demo](assets/screenshot.jpeg)

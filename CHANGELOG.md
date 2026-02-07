@@ -2,6 +2,7 @@
 
 All notable changes to this package will be documented in this file.
 
+## [0.0.3] - 2026-02-07
 ## [0.0.2] - 2026-02-07
 ### Added
 - Stream support for real-time connectivity updates
