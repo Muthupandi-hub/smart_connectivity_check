@@ -1,25 +1,21 @@
-# smart_connectivity_check 🌐
+Smart Connectivity Check 🌐
 
-A smart Flutter package to **detect real internet connectivity** with **stream support**, built to be more reliable than basic network checks.
+Smart Connectivity Check is a Flutter package to reliably detect real internet connectivity across platforms. Unlike basic connectivity checks, it verifies actual internet access and provides stream-based updates for real-time connectivity changes.
 
-Created by **MUTHUPANDI P** 👨‍💻
+Created by MUTHUPANDI P 👨‍💻
 
----
+✨ Features
 
-## ✨ Features
+✅ Detects real internet access, not just Wi-Fi or mobile connection
 
-- ✅ Detects **real internet access**, not just WiFi/mobile connection
-- 🔄 Listens to connectivity changes using a stream
-- ⚡ Lightweight and easy to integrate
-- 🧠 Handles edge cases like *WiFi without internet*
-- 📱 Works on Android, iOS, Web, and Desktop (where supported)
+🔄 Provides stream support for real-time connectivity updates
 
----
+⚡ Lightweight and easy to integrate
 
-## 🚀 Getting Started
+🧠 Handles edge cases like Wi-Fi without internet
 
-Add the package to your `pubspec.yaml`:
+📱 Compatible with Android, iOS, Web, and Desktop (where supported)
 
-```yaml
-dependencies:
-  smart_connectivity_check: ^0.0.1
+## Demo
+
+![Smart Connectivity Check Demo](assets/screenshot.jpeg)
